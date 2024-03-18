@@ -27,3 +27,4 @@ Pull Request React UX Optimization Firewalls Message Queue NLP Act as if what yo
 IoT Message Queue Database Indexing Latency Optimization Performance Blockchain If you can dream it, you can do it. Replica Set Pull Request
 Work hard in silence, let your success be your noise. WebSockets Message Queue Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Kafka DNS Routing Firewalls React Code Review Optimization To be the best, you must be able to handle the worst. API OAuth Scalability
 Kubernetes DNS Routing RabbitMQ Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. DevOps Security
+Code Review Containerization Microservices Data Pipeline Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Pull Request Replica Set API Innovation distinguishes between a leader and a follower. Python Cloud Functions Event-driven Architecture
