@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Container 
 Stay hungry, stay foolish. Cache Invalidation Scalability Multi-threading If you can dream it, you can do it. Content Delivery Network DNS Routing
 Database Docker Success is how high you bounce when you hit bottom. Event-driven Architecture Version Control API Gateway Big Data Parallel Processing Zero Downtime Deployment Load Testing Event Sourcing Edge Computing The only way to do great work is to love what you do. Sharding Predictive Analytics
 Python Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Code Review Virtual Machines Do what you love and the money will follow. Data Science To be the best, you must be able to handle the worst. JWT Load Balancing Sharding Happiness is not something ready made. It comes from your own actions. Kafka
+Message Queue Python Testing Agile Parallel Processing Virtual Machines

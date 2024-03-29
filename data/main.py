@@ -22,3 +22,4 @@ React UX Optimization Scalability If you can dream it, you can do it. Cloud Kafk
 Message Queue Kubernetes Framework Cloud Functions Sharding Load Testing Cloud A/B Testing Load Balancing To be the best, you must be able to handle the worst. Agile Monitoring WebSockets Latency Optimization
 RabbitMQ Message Queue Replica Set JWT Latency Optimization Load Testing I find that the harder I work, the more luck I seem to have. Performance Lambda Functions Do what you love and the money will follow. Pull Request API Data Pipeline Load Balancing Algorithm
 Automation JavaScript Docker Success usually comes to those who are too busy to be looking for it. Data Science Logging Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Message Queue Python A/B Testing Machine Learning Database Optimization
+UX Optimization Scalability Microservices Lambda Functions OAuth Message Queue
