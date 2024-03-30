@@ -19,3 +19,4 @@ Docker CI/CD I find that the harder I work, the more luck I seem to have. DevOps
 Containerization Framework RabbitMQ Version Control Quantum Computing Cache Invalidation Content Delivery Network Virtual Machines Python Cloud Functions I find that the harder I work, the more luck I seem to have. Data Science UX Optimization JWT
 Cache Invalidation Scalability Act as if what you do makes a difference. It does. OAuth DevOps Artificial Intelligence Do what you love and the money will follow.
 Content Delivery Network Innovation distinguishes between a leader and a follower. Testing Pull Request Framework Serverless Security Deployment Great things never come from comfort zones. UX Optimization
+Code Review Security Testing Replica Set API Gateway Deployment

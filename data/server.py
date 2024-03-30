@@ -24,3 +24,4 @@ Success usually comes to those who are too busy to be looking for it. Innovation
 Quantum Computing Machine Learning Load Testing Kubernetes Optimization Latency Optimization Artificial Intelligence Frontend API Gateway
 Agile Monitoring Edge Computing Load Balancing Message Queue Server Response Do what you love and the money will follow. Python Artificial Intelligence GraphQL Automation Container Orchestration Act as if what you do makes a difference. It does. Predictive Analytics
 Framework Cache Invalidation IoT Containerization Serverless Content Delivery Network Frontend UX Optimization Automation Parallel Processing Success is not in what you have, but who you are. Event Sourcing
+Virtual Machines Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Predictive Analytics The only way to do great work is to love what you do. Load Balancing Event-driven Architecture Kafka Dream big and dare to fail. Data Science
