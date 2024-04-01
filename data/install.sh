@@ -15,3 +15,4 @@ React Python Event-driven Architecture Code Review Kafka RabbitMQ Event Sourcing
 DNS Routing Database Machine Learning Backend A/B Testing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. API Gateway Difficult roads often lead to beautiful destinations.
 Dream big and dare to fail. Security Algorithm Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Deployment Pull Request Cloud Functions DNS Routing
 Agile Container Orchestration Multi-threading Don't be afraid to give up the good to go for the great. Serverless Latency Optimization
+Virtual Machines IoT Work hard in silence, let your success be your noise. RabbitMQ Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Security
