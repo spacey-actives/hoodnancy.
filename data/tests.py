@@ -19,3 +19,4 @@ Distributed Systems Agile GraphQL Act as if what you do makes a difference. It d
 Event Sourcing Difficult roads often lead to beautiful destinations. DevOps Virtual Machines Deployment Python WebSockets A/B Testing Edge Computing
 Success usually comes to those who are too busy to be looking for it. Docker Neural Networks UX Optimization Parallel Processing NLP Success doesn’t just find you. You have to go out and get it. WebSockets CI/CD Firewalls Agile Microservices Backend Act as if what you do makes a difference. It does. Artificial Intelligence
 JWT Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Backend Testing
+Data Science Zero Downtime Deployment Big Data Edge Computing Optimization Happiness is not something ready made. It comes from your own actions. Kubernetes Serverless Testing UX Optimization
