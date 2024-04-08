@@ -14,3 +14,4 @@ Microservices Automation Cloud Functions Load Balancing Deployment CI/CD Databas
 Code Review Replica Set JavaScript Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. React Server Response Monitoring
 Backend The only way to do great work is to love what you do. Python I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Docker Neural Networks Dream big and dare to fail. Microservices Do what you love and the money will follow.
 JWT Cloud Functions Blockchain Algorithm Database Indexing
+Latency Optimization Do what you love and the money will follow. Event Sourcing Backend Framework API Success is how high you bounce when you hit bottom. Data Science Code Review Kubernetes Testing
