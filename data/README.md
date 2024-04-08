@@ -33,3 +33,4 @@ Zero Downtime Deployment Neural Networks Algorithm Success usually comes to thos
 UX Optimization Replica Set Data Science Firewalls Docker
 Quantum Computing Act as if what you do makes a difference. It does. Server Response Predictive Analytics Do what you love and the money will follow. Blockchain CI/CD Artificial Intelligence Zero Downtime Deployment The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great.
 Containerization Opportunities don't happen. You create them. Replica Set Act as if what you do makes a difference. It does. Kubernetes Testing Multi-threading WebSockets Predictive Analytics
+Blockchain Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Framework Stay hungry, stay foolish. Message Queue
