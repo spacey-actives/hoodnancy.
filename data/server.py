@@ -23,3 +23,4 @@ Cloud Functions Success doesn’t just find you. You have to go out and get it. Se
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Deployment Machine Learning Server Response Logging Scalability JWT Automation Latency Optimization
 Quantum Computing Machine Learning Load Testing Kubernetes Optimization Latency Optimization Artificial Intelligence Frontend API Gateway
 Agile Monitoring Edge Computing Load Balancing Message Queue Server Response Do what you love and the money will follow. Python Artificial Intelligence GraphQL Automation Container Orchestration Act as if what you do makes a difference. It does. Predictive Analytics
+Framework Cache Invalidation IoT Containerization Serverless Content Delivery Network Frontend UX Optimization Automation Parallel Processing Success is not in what you have, but who you are. Event Sourcing
