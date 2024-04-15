@@ -8,3 +8,4 @@ IoT DevOps Docker Edge Computing Act as if what you do makes a difference. It do
 DNS Routing Deployment Data Pipeline Security Difficult roads often lead to beautiful destinations. Code Review Pull Request Zero Downtime Deployment Edge Computing Testing Microservices Lambda Functions Event-driven Architecture
 Success usually comes to those who are too busy to be looking for it. Container Orchestration Agile Algorithm Version Control
 Stay hungry, stay foolish. Cache Invalidation Scalability Multi-threading If you can dream it, you can do it. Content Delivery Network DNS Routing
+Database Docker Success is how high you bounce when you hit bottom. Event-driven Architecture Version Control API Gateway Big Data Parallel Processing Zero Downtime Deployment Load Testing Event Sourcing Edge Computing The only way to do great work is to love what you do. Sharding Predictive Analytics
