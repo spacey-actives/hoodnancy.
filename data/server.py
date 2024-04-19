@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. Virtual Machines React Monito
 If you can dream it, you can do it. Performance Work hard in silence, let your success be your noise. DNS Routing Neural Networks A/B Testing Lambda Functions
 Cloud Functions Success doesn’t just find you. You have to go out and get it. Server Response OAuth Performance Great things never come from comfort zones. Pull Request Success usually comes to those who are too busy to be looking for it. Database Indexing
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Deployment Machine Learning Server Response Logging Scalability JWT Automation Latency Optimization
+Quantum Computing Machine Learning Load Testing Kubernetes Optimization Latency Optimization Artificial Intelligence Frontend API Gateway
