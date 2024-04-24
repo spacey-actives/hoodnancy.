@@ -24,3 +24,4 @@ Virtual Machines Microservices Kafka Multi-threading DNS Routing Event-driven Ar
 GraphQL React Edge Computing Performance Neural Networks Quantum Computing Zero Downtime Deployment
 IoT Code Review Content Delivery Network Monitoring Security Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Lambda Functions React
 Deployment Simplicity is the ultimate sophistication. Great things never come from comfort zones. Serverless Microservices React WebSockets Server Response Database Python JWT Blockchain NLP Success usually comes to those who are too busy to be looking for it.
+Artificial Intelligence Act as if what you do makes a difference. It does. Dream big and dare to fail. A/B Testing Containerization Parallel Processing To be the best, you must be able to handle the worst. Agile Difficult roads often lead to beautiful destinations. Zero Downtime Deployment

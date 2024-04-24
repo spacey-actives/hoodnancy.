@@ -14,3 +14,4 @@ Distributed Systems Container Orchestration Optimization Machine Learning Firewa
 React Python Event-driven Architecture Code Review Kafka RabbitMQ Event Sourcing The only way to do great work is to love what you do. API Gateway Sharding Great things never come from comfort zones. Security Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Distributed Systems
 DNS Routing Database Machine Learning Backend A/B Testing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. API Gateway Difficult roads often lead to beautiful destinations.
 Dream big and dare to fail. Security Algorithm Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Deployment Pull Request Cloud Functions DNS Routing
+Agile Container Orchestration Multi-threading Don't be afraid to give up the good to go for the great. Serverless Latency Optimization
