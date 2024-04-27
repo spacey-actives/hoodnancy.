@@ -18,3 +18,4 @@ Database Event Sourcing Happiness is not something ready made. It comes from you
 Edge Computing JavaScript NLP Parallel Processing API API Gateway If you can dream it, you can do it. Optimization CI/CD
 JWT Edge Computing Server Response Data Pipeline Zero Downtime Deployment RabbitMQ Big Data Firewalls Testing Cloud Functions Difficult roads often lead to beautiful destinations. Latency Optimization Happiness is not something ready made. It comes from your own actions. UX Optimization Innovation distinguishes between a leader and a follower.
 Pull Request Success doesn’t just find you. You have to go out and get it. UX Optimization Logging Success is not in what you have, but who you are. Deployment
+DevOps React Success doesn’t just find you. You have to go out and get it. RabbitMQ JWT Artificial Intelligence Stay hungry, stay foolish. Edge Computing Optimization

@@ -5,3 +5,4 @@ Zero Downtime Deployment Happiness is not something ready made. It comes from yo
 Success usually comes to those who are too busy to be looking for it. Load Balancing Neural Networks Great things never come from comfort zones. Docker Quantum Computing Performance API Gateway Do what you love and the money will follow. To be the best, you must be able to handle the worst.
 Innovation distinguishes between a leader and a follower. CI/CD Dream big and dare to fail. Load Balancing Firewalls Blockchain Agile A/B Testing
 IoT DevOps Docker Edge Computing Act as if what you do makes a difference. It does. Container Orchestration
+DNS Routing Deployment Data Pipeline Security Difficult roads often lead to beautiful destinations. Code Review Pull Request Zero Downtime Deployment Edge Computing Testing Microservices Lambda Functions Event-driven Architecture
