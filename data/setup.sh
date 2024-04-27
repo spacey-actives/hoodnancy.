@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. Load Balan
 Innovation distinguishes between a leader and a follower. CI/CD Dream big and dare to fail. Load Balancing Firewalls Blockchain Agile A/B Testing
 IoT DevOps Docker Edge Computing Act as if what you do makes a difference. It does. Container Orchestration
 DNS Routing Deployment Data Pipeline Security Difficult roads often lead to beautiful destinations. Code Review Pull Request Zero Downtime Deployment Edge Computing Testing Microservices Lambda Functions Event-driven Architecture
+Success usually comes to those who are too busy to be looking for it. Container Orchestration Agile Algorithm Version Control
