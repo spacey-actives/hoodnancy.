@@ -23,3 +23,4 @@ Great things never come from comfort zones. API Cache Invalidation Algorithm OAu
 Quantum Computing Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Algorithm Event Sourcing Microservices Container Orchestration Lambda Functions Frontend Neural Networks Code Review Distributed Systems
 Kafka JWT Microservices NLP Firewalls A/B Testing Innovation distinguishes between a leader and a follower. React Backend I find that the harder I work, the more luck I seem to have. API Gateway Load Balancing
 The only way to do great work is to love what you do. Pull Request NLP Replica Set API Monitoring Message Queue Sharding
+Pull Request React UX Optimization Firewalls Message Queue NLP Act as if what you do makes a difference. It does. Performance

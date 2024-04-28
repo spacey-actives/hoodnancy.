@@ -30,3 +30,4 @@ Act as if what you do makes a difference. It does. Deployment Success doesn’t ju
 Kafka API Gateway Distributed Systems Serverless IoT Algorithm
 Containerization Simplicity is the ultimate sophistication. A/B Testing Innovation distinguishes between a leader and a follower. DNS Routing Happiness is not something ready made. It comes from your own actions. Lambda Functions Kafka Backend Opportunities don't happen. You create them.
 Zero Downtime Deployment Neural Networks Algorithm Success usually comes to those who are too busy to be looking for it. Multi-threading Virtual Machines Pull Request Cloud Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. UX Optimization
+UX Optimization Replica Set Data Science Firewalls Docker
