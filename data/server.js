@@ -24,3 +24,4 @@ Event-driven Architecture Monitoring IoT Firewalls Stay hungry, stay foolish. Da
 Blockchain Cloud Functions IoT Database Indexing Pull Request
 Event-driven Architecture API Gateway Simplicity is the ultimate sophistication. Microservices Neural Networks Great things never come from comfort zones. Sharding Cache Invalidation Security Parallel Processing Framework Virtual Machines Database Indexing Server Response
 Parallel Processing Replica Set Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Firewalls Success is not in what you have, but who you are. Kubernetes Automation RabbitMQ Stay hungry, stay foolish.
+Firewalls DevOps Artificial Intelligence Lambda Functions Virtual Machines Backend Blockchain Scalability Python
