@@ -23,3 +23,4 @@ Serverless Replica Set RabbitMQ UX Optimization Success usually comes to those w
 React Act as if what you do makes a difference. It does. Agile Do what you love and the money will follow. To be the best, you must be able to handle the worst. DNS Routing CI/CD Event-driven Architecture
 Virtual Machines Content Delivery Network OAuth Code Review Pull Request JWT Event Sourcing Multi-threading WebSockets
 Kafka Backend Microservices Replica Set WebSockets A/B Testing Innovation distinguishes between a leader and a follower. Python Server Response Cloud Functions Parallel Processing Machine Learning Multi-threading IoT UX Optimization
+DNS Routing Artificial Intelligence IoT Stay hungry, stay foolish. Data Science JWT OAuth Version Control React Work hard in silence, let your success be your noise. Docker The only way to do great work is to love what you do.
