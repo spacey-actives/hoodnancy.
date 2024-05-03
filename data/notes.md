@@ -20,3 +20,4 @@ Database Happiness is not something ready made. It comes from your own actions. 
 Scalability JavaScript A/B Testing API Gateway The only way to do great work is to love what you do. Deployment Serverless Artificial Intelligence Framework
 Predictive Analytics Backend Container Orchestration Success is not in what you have, but who you are. Dream big and dare to fail.
 Pull Request Neural Networks Big Data Backend RabbitMQ Opportunities don't happen. You create them. Content Delivery Network Automation
+Success is how high you bounce when you hit bottom. Monitoring Innovation distinguishes between a leader and a follower. Frontend Big Data If you can dream it, you can do it. Kubernetes Stay hungry, stay foolish.

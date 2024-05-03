@@ -21,3 +21,4 @@ Agile Message Queue Act as if what you do makes a difference. It does. Virtual M
 A/B Testing Cache Invalidation Security GraphQL Quantum Computing Container Orchestration Success is how high you bounce when you hit bottom. Monitoring
 Serverless Replica Set RabbitMQ UX Optimization Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Security Event Sourcing Agile Zero Downtime Deployment Virtual Machines
 React Act as if what you do makes a difference. It does. Agile Do what you love and the money will follow. To be the best, you must be able to handle the worst. DNS Routing CI/CD Event-driven Architecture
+Virtual Machines Content Delivery Network OAuth Code Review Pull Request JWT Event Sourcing Multi-threading WebSockets

@@ -25,3 +25,4 @@ Parallel Processing Backend Framework API Quantum Computing Frontend Success is 
 Microservices Data Pipeline Machine Learning Agile Simplicity is the ultimate sophistication. Pull Request RabbitMQ Database Indexing Event Sourcing NLP
 Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Data Pipeline Success doesn’t just find you. You have to go out and get it. Neural Networks Automation Predictive Analytics Parallel Processing Sharding Data Science JWT Python Firewalls Container Orchestration
 Firewalls Edge Computing Agile Microservices Predictive Analytics Optimization Don't be afraid to give up the good to go for the great. Cloud Logging
+Cloud Security Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Agile Don't be afraid to give up the good to go for the great. OAuth Simplicity is the ultimate sophistication. Cache Invalidation Python Event Sourcing NLP
