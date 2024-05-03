@@ -22,3 +22,4 @@ Success is not in what you have, but who you are. Cache Invalidation Virtual Mac
 GraphQL Success is how high you bounce when you hit bottom. Dream big and dare to fail. Deployment Performance Neural Networks Cloud Functions Framework Frontend Innovation distinguishes between a leader and a follower.
 Neural Networks Kafka Frontend NLP Simplicity is the ultimate sophistication. Artificial Intelligence Server Response Great things never come from comfort zones. Performance Quantum Computing Code Review Cache Invalidation
 Success usually comes to those who are too busy to be looking for it. Quantum Computing Testing React OAuth Logging Framework Data Pipeline JWT Security API Gateway Edge Computing IoT The only way to do great work is to love what you do. Work hard in silence, let your success be your noise.
+Sharding Latency Optimization Work hard in silence, let your success be your noise. Blockchain Dream big and dare to fail. Lambda Functions Data Pipeline

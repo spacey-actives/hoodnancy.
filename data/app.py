@@ -22,3 +22,4 @@ Load Balancing Serverless Artificial Intelligence Security Lambda Functions DevO
 Great things never come from comfort zones. API Cache Invalidation Algorithm OAuth Parallel Processing Data Pipeline Success doesn’t just find you. You have to go out and get it. Security Dream big and dare to fail. API Gateway Docker NLP Do what you love and the money will follow.
 Quantum Computing Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Algorithm Event Sourcing Microservices Container Orchestration Lambda Functions Frontend Neural Networks Code Review Distributed Systems
 Kafka JWT Microservices NLP Firewalls A/B Testing Innovation distinguishes between a leader and a follower. React Backend I find that the harder I work, the more luck I seem to have. API Gateway Load Balancing
+The only way to do great work is to love what you do. Pull Request NLP Replica Set API Monitoring Message Queue Sharding
