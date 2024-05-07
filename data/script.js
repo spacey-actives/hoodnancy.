@@ -22,3 +22,4 @@ Deployment Opportunities don't happen. You create them. Edge Computing Cache Inv
 Firewalls Performance OAuth If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Logging Scalability Automation NLP
 Virtual Machines Microservices Kafka Multi-threading DNS Routing Event-driven Architecture Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Cache Invalidation NLP Message Queue Success doesn’t just find you. You have to go out and get it. DevOps
 GraphQL React Edge Computing Performance Neural Networks Quantum Computing Zero Downtime Deployment
+IoT Code Review Content Delivery Network Monitoring Security Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Lambda Functions React

@@ -23,3 +23,4 @@ Database Data Pipeline API Gateway Act as if what you do makes a difference. It 
 Event-driven Architecture Monitoring IoT Firewalls Stay hungry, stay foolish. Database Success doesn’t just find you. You have to go out and get it. Kubernetes
 Blockchain Cloud Functions IoT Database Indexing Pull Request
 Event-driven Architecture API Gateway Simplicity is the ultimate sophistication. Microservices Neural Networks Great things never come from comfort zones. Sharding Cache Invalidation Security Parallel Processing Framework Virtual Machines Database Indexing Server Response
+Parallel Processing Replica Set Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Firewalls Success is not in what you have, but who you are. Kubernetes Automation RabbitMQ Stay hungry, stay foolish.
