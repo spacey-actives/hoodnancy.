@@ -22,3 +22,4 @@ Content Delivery Network Act as if what you do makes a difference. It does. JWT 
 Database Data Pipeline API Gateway Act as if what you do makes a difference. It does. Cloud Functions Zero Downtime Deployment Stay hungry, stay foolish. Quantum Computing React NLP UX Optimization Data Science JavaScript Cloud
 Event-driven Architecture Monitoring IoT Firewalls Stay hungry, stay foolish. Database Success doesn’t just find you. You have to go out and get it. Kubernetes
 Blockchain Cloud Functions IoT Database Indexing Pull Request
+Event-driven Architecture API Gateway Simplicity is the ultimate sophistication. Microservices Neural Networks Great things never come from comfort zones. Sharding Cache Invalidation Security Parallel Processing Framework Virtual Machines Database Indexing Server Response
