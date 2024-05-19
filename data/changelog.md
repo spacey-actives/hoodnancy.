@@ -20,3 +20,4 @@ Code Review Performance Microservices GraphQL Replica Set Success is not in what
 Algorithm JavaScript Container Orchestration Security Containerization Pull Request Success doesn’t just find you. You have to go out and get it. DevOps Machine Learning Kubernetes Blockchain Testing API Stay hungry, stay foolish.
 Serverless Zero Downtime Deployment Content Delivery Network Deployment Kubernetes Stay hungry, stay foolish. Agile
 API Gateway Event-driven Architecture Parallel Processing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Virtual Machines Kafka Scalability Python If you can dream it, you can do it. Big Data
+Version Control NLP Scalability UX Optimization Load Balancing Kubernetes API Database To be the best, you must be able to handle the worst. Pull Request Don't be afraid to give up the good to go for the great.
