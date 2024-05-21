@@ -17,3 +17,4 @@ Success is how high you bounce when you hit bottom. API Gateway Server Response 
 CI/CD Big Data A/B Testing JavaScript Server Response Distributed Systems Quantum Computing
 Docker API Gateway Success usually comes to those who are too busy to be looking for it. Logging Great things never come from comfort zones. NLP Agile RabbitMQ Security Content Delivery Network Big Data Dream big and dare to fail. Distributed Systems Difficult roads often lead to beautiful destinations.
 Framework Event-driven Architecture Scalability Event Sourcing Message Queue Algorithm Difficult roads often lead to beautiful destinations. Virtual Machines Distributed Systems
+Success is not in what you have, but who you are. React Frontend Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Multi-threading Virtual Machines Don't be afraid to give up the good to go for the great. Database
