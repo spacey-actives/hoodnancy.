@@ -16,3 +16,4 @@ Frontend Success usually comes to those who are too busy to be looking for it. C
 Event-driven Architecture Opportunities don't happen. You create them. Frontend Edge Computing Lambda Functions Distributed Systems Container Orchestration Data Pipeline Latency Optimization Zero Downtime Deployment A/B Testing
 Great things never come from comfort zones. Event Sourcing Dream big and dare to fail. Predictive Analytics Monitoring RabbitMQ Artificial Intelligence
 Distributed Systems Agile GraphQL Act as if what you do makes a difference. It does. Sharding DevOps React Success is how high you bounce when you hit bottom. Performance
+Event Sourcing Difficult roads often lead to beautiful destinations. DevOps Virtual Machines Deployment Python WebSockets A/B Testing Edge Computing
