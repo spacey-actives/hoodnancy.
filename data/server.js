@@ -21,3 +21,4 @@ Success is how high you bounce when you hit bottom. OAuth Innovation distinguish
 Content Delivery Network Act as if what you do makes a difference. It does. JWT A/B Testing Testing Simplicity is the ultimate sophistication. Data Pipeline Multi-threading
 Database Data Pipeline API Gateway Act as if what you do makes a difference. It does. Cloud Functions Zero Downtime Deployment Stay hungry, stay foolish. Quantum Computing React NLP UX Optimization Data Science JavaScript Cloud
 Event-driven Architecture Monitoring IoT Firewalls Stay hungry, stay foolish. Database Success doesn’t just find you. You have to go out and get it. Kubernetes
+Blockchain Cloud Functions IoT Database Indexing Pull Request

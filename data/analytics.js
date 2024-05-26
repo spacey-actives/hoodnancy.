@@ -15,3 +15,4 @@ Data Pipeline Do what you love and the money will follow. Machine Learning Deplo
 Success is how high you bounce when you hit bottom. Content Delivery Network If you can dream it, you can do it. Cloud UX Optimization Neural Networks DNS Routing Python DevOps
 Success is not in what you have, but who you are. Deployment Cloud Functions GraphQL Message Queue Success usually comes to those who are too busy to be looking for it. Server Response Python Kubernetes Automation
 Database Event Sourcing Happiness is not something ready made. It comes from your own actions. Container Orchestration Logging Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Microservices Server Response Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Scalability
+Edge Computing JavaScript NLP Parallel Processing API API Gateway If you can dream it, you can do it. Optimization CI/CD
