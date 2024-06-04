@@ -19,3 +19,4 @@ Containerization Serverless Blockchain Act as if what you do makes a difference.
 Code Review Performance Microservices GraphQL Replica Set Success is not in what you have, but who you are.
 Algorithm JavaScript Container Orchestration Security Containerization Pull Request Success doesn’t just find you. You have to go out and get it. DevOps Machine Learning Kubernetes Blockchain Testing API Stay hungry, stay foolish.
 Serverless Zero Downtime Deployment Content Delivery Network Deployment Kubernetes Stay hungry, stay foolish. Agile
+API Gateway Event-driven Architecture Parallel Processing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Virtual Machines Kafka Scalability Python If you can dream it, you can do it. Big Data

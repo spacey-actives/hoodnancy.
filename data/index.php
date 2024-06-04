@@ -20,3 +20,4 @@ Code Review Work hard in silence, let your success be your noise. Success doesn’
 Dream big and dare to fail. Machine Learning Cloud Functions Success is not in what you have, but who you are. Backend WebSockets
 Data Science Load Balancing Success doesn’t just find you. You have to go out and get it. JWT Cloud Functions Backend Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Zero Downtime Deployment Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Deployment
+Act as if what you do makes a difference. It does. Pull Request Kafka Predictive Analytics Load Balancing Database Testing DevOps
