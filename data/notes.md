@@ -18,3 +18,4 @@ Framework Success is not in what you have, but who you are. Docker Blockchain Ca
 Sharding Simplicity is the ultimate sophistication. Data Pipeline Latency Optimization Kafka
 Database Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Database Indexing DevOps Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do.
 Scalability JavaScript A/B Testing API Gateway The only way to do great work is to love what you do. Deployment Serverless Artificial Intelligence Framework
+Predictive Analytics Backend Container Orchestration Success is not in what you have, but who you are. Dream big and dare to fail.
