@@ -18,3 +18,4 @@ Content Delivery Network Event Sourcing Distributed Systems React Blockchain Neu
 Containerization Serverless Blockchain Act as if what you do makes a difference. It does. A/B Testing Python Backend Monitoring Firewalls Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. DevOps Event Sourcing
 Code Review Performance Microservices GraphQL Replica Set Success is not in what you have, but who you are.
 Algorithm JavaScript Container Orchestration Security Containerization Pull Request Success doesn’t just find you. You have to go out and get it. DevOps Machine Learning Kubernetes Blockchain Testing API Stay hungry, stay foolish.
+Serverless Zero Downtime Deployment Content Delivery Network Deployment Kubernetes Stay hungry, stay foolish. Agile
