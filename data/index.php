@@ -19,3 +19,4 @@ NLP Big Data Edge Computing Backend JavaScript
 Code Review Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Python Deployment DNS Routing Latency Optimization
 Dream big and dare to fail. Machine Learning Cloud Functions Success is not in what you have, but who you are. Backend WebSockets
 Data Science Load Balancing Success doesn’t just find you. You have to go out and get it. JWT Cloud Functions Backend Happiness is not something ready made. It comes from your own actions.
+Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Zero Downtime Deployment Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Deployment
