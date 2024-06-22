@@ -13,3 +13,4 @@ NLP If you can dream it, you can do it. Artificial Intelligence Distributed Syst
 Replica Set Monitoring Difficult roads often lead to beautiful destinations. Event Sourcing Deployment Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. API Gateway Load Testing Pull Request
 Latency Optimization Act as if what you do makes a difference. It does. Content Delivery Network WebSockets NLP Distributed Systems Artificial Intelligence
 Frontend Success usually comes to those who are too busy to be looking for it. Cloud Functions GraphQL Docker
+Event-driven Architecture Opportunities don't happen. You create them. Frontend Edge Computing Lambda Functions Distributed Systems Container Orchestration Data Pipeline Latency Optimization Zero Downtime Deployment A/B Testing
