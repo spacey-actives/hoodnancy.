@@ -10,3 +10,4 @@ Cloud Deployment Latency Optimization Cloud Functions Quantum Computing Automati
 Event Sourcing UX Optimization IoT Innovation distinguishes between a leader and a follower. Server Response Kafka
 Microservices Success usually comes to those who are too busy to be looking for it. Container Orchestration If you can dream it, you can do it. Monitoring Distributed Systems API Gateway
 Deployment Security Success is how high you bounce when you hit bottom. Performance Microservices Act as if what you do makes a difference. It does. Edge Computing Database Opportunities don't happen. You create them. Big Data Scalability Data Science Difficult roads often lead to beautiful destinations. CI/CD Cloud
+Microservices Automation Cloud Functions Load Balancing Deployment CI/CD Database Indexing JavaScript
