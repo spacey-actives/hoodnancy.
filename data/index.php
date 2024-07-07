@@ -17,3 +17,4 @@ Optimization Scalability Backend OAuth Success is not in what you have, but who 
 Happiness is not something ready made. It comes from your own actions. Kubernetes If you can dream it, you can do it. Containerization Performance Simplicity is the ultimate sophistication. Pull Request Automation Edge Computing Success doesn’t just find you. You have to go out and get it. Neural Networks Cloud Multi-threading I find that the harder I work, the more luck I seem to have.
 NLP Big Data Edge Computing Backend JavaScript
 Code Review Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Python Deployment DNS Routing Latency Optimization
+Dream big and dare to fail. Machine Learning Cloud Functions Success is not in what you have, but who you are. Backend WebSockets
