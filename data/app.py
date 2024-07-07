@@ -17,3 +17,4 @@ IoT Python Simplicity is the ultimate sophistication. Parallel Processing Virtua
 Optimization Predictive Analytics UX Optimization Event-driven Architecture The only way to do great work is to love what you do. A/B Testing
 UX Optimization Dream big and dare to fail. Cloud Work hard in silence, let your success be your noise. Neural Networks If you can dream it, you can do it. Kubernetes
 WebSockets Lambda Functions Content Delivery Network GraphQL JWT Machine Learning Server Response Database Indexing Success doesn’t just find you. You have to go out and get it. Event Sourcing React Version Control Containerization Frontend Difficult roads often lead to beautiful destinations.
+Code Review Pull Request Version Control Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Predictive Analytics API Parallel Processing Success is how high you bounce when you hit bottom. Data Science Dream big and dare to fail.
