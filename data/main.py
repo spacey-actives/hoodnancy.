@@ -17,3 +17,4 @@ Scalability Data Pipeline Distributed Systems Container Orchestration Machine Le
 UX Optimization Optimization Big Data Server Response Python Difficult roads often lead to beautiful destinations. Microservices Event-driven Architecture
 API DevOps Big Data Backend Server Response UX Optimization
 Data Pipeline Performance Great things never come from comfort zones. Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Neural Networks Distributed Systems Event-driven Architecture
+Firewalls Kafka Don't be afraid to give up the good to go for the great. Scalability API Gateway API Zero Downtime Deployment Event-driven Architecture Artificial Intelligence Code Review Container Orchestration Lambda Functions
