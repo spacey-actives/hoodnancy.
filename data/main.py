@@ -16,3 +16,4 @@ Sharding Pull Request Agile Simplicity is the ultimate sophistication. OAuth Suc
 Scalability Data Pipeline Distributed Systems Container Orchestration Machine Learning NLP Cloud Functions Serverless Cache Invalidation Logging Big Data Version Control Optimization If you can dream it, you can do it.
 UX Optimization Optimization Big Data Server Response Python Difficult roads often lead to beautiful destinations. Microservices Event-driven Architecture
 API DevOps Big Data Backend Server Response UX Optimization
+Data Pipeline Performance Great things never come from comfort zones. Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Neural Networks Distributed Systems Event-driven Architecture

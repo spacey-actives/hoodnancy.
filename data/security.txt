@@ -13,3 +13,4 @@ Microservices Innovation distinguishes between a leader and a follower. Docker B
 If you can dream it, you can do it. JWT Data Pipeline Data Science Algorithm Happiness is not something ready made. It comes from your own actions. Deployment Neural Networks Cache Invalidation Opportunities don't happen. You create them.
 API Sharding Multi-threading Performance Data Pipeline Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
 Python Replica Set Pull Request Monitoring Code Review Agile Work hard in silence, let your success be your noise.
+Act as if what you do makes a difference. It does. API Blockchain JavaScript Event-driven Architecture The only way to do great work is to love what you do. Stay hungry, stay foolish. RabbitMQ Cache Invalidation
