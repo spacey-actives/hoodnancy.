@@ -19,3 +19,4 @@ GraphQL Machine Learning Event Sourcing Lambda Functions JavaScript Artificial I
 Edge Computing Dream big and dare to fail. UX Optimization Success doesn’t just find you. You have to go out and get it. Algorithm
 Code Review To be the best, you must be able to handle the worst. Scalability Container Orchestration Data Pipeline The only way to do great work is to love what you do. Automation NLP Event-driven Architecture Testing DNS Routing JavaScript
 Deployment Opportunities don't happen. You create them. Edge Computing Cache Invalidation Automation Quantum Computing Big Data The only way to do great work is to love what you do. Predictive Analytics
+Firewalls Performance OAuth If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Logging Scalability Automation NLP
