@@ -15,3 +15,4 @@ Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Automation
 Sharding Pull Request Agile Simplicity is the ultimate sophistication. OAuth Success is not in what you have, but who you are. Kubernetes Big Data Event Sourcing Don't be afraid to give up the good to go for the great.
 Scalability Data Pipeline Distributed Systems Container Orchestration Machine Learning NLP Cloud Functions Serverless Cache Invalidation Logging Big Data Version Control Optimization If you can dream it, you can do it.
 UX Optimization Optimization Big Data Server Response Python Difficult roads often lead to beautiful destinations. Microservices Event-driven Architecture
+API DevOps Big Data Backend Server Response UX Optimization
