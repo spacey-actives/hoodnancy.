@@ -21,3 +21,4 @@ Predictive Analytics Testing A/B Testing Big Data Edge Computing API Simplicity 
 Artificial Intelligence A/B Testing Cloud Functions Predictive Analytics Performance
 DevOps Framework Multi-threading Cloud Kafka Containerization Frontend Sharding Database Indexing NLP React I find that the harder I work, the more luck I seem to have.
 Pull Request GraphQL Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Testing Cloud Event Sourcing Security Quantum Computing Python Artificial Intelligence
+NLP Optimization Version Control Logging OAuth Framework Load Balancing

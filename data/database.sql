@@ -9,3 +9,4 @@ Scalability Backend Frontend API Stay hungry, stay foolish. Docker Simplicity is
 Cloud Deployment Latency Optimization Cloud Functions Quantum Computing Automation To be the best, you must be able to handle the worst. Backend Dream big and dare to fail. Version Control JavaScript
 Event Sourcing UX Optimization IoT Innovation distinguishes between a leader and a follower. Server Response Kafka
 Microservices Success usually comes to those who are too busy to be looking for it. Container Orchestration If you can dream it, you can do it. Monitoring Distributed Systems API Gateway
+Deployment Security Success is how high you bounce when you hit bottom. Performance Microservices Act as if what you do makes a difference. It does. Edge Computing Database Opportunities don't happen. You create them. Big Data Scalability Data Science Difficult roads often lead to beautiful destinations. CI/CD Cloud
