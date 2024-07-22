@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Work hard in silence, let your succes
 Deployment UX Optimization Version Control API Gateway Performance A/B Testing Framework Zero Downtime Deployment Testing
 Deployment Predictive Analytics Firewalls Cloud Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Blockchain Parallel Processing Kubernetes Virtual Machines Framework Zero Downtime Deployment Python
 IoT Python Simplicity is the ultimate sophistication. Parallel Processing Virtual Machines Stay hungry, stay foolish. A/B Testing Security
+Optimization Predictive Analytics UX Optimization Event-driven Architecture The only way to do great work is to love what you do. A/B Testing

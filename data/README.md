@@ -19,3 +19,4 @@ Security Kubernetes React Message Queue Frontend
 Innovation distinguishes between a leader and a follower. Docker Difficult roads often lead to beautiful destinations. WebSockets Don't be afraid to give up the good to go for the great. IoT Automation Testing Event-driven Architecture
 Predictive Analytics Testing A/B Testing Big Data Edge Computing API Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Lambda Functions Act as if what you do makes a difference. It does. Great things never come from comfort zones. Database React Automation Latency Optimization
 Artificial Intelligence A/B Testing Cloud Functions Predictive Analytics Performance
+DevOps Framework Multi-threading Cloud Kafka Containerization Frontend Sharding Database Indexing NLP React I find that the harder I work, the more luck I seem to have.
