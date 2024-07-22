@@ -13,3 +13,4 @@ Multi-threading Microservices RabbitMQ GraphQL Don't be afraid to give up the go
 Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Server Response UX Optimization
 Deployment UX Optimization Version Control API Gateway Performance A/B Testing Framework Zero Downtime Deployment Testing
 Deployment Predictive Analytics Firewalls Cloud Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Blockchain Parallel Processing Kubernetes Virtual Machines Framework Zero Downtime Deployment Python
+IoT Python Simplicity is the ultimate sophistication. Parallel Processing Virtual Machines Stay hungry, stay foolish. A/B Testing Security
