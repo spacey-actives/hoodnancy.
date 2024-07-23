@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Quantum Computing Zero 
 Cloud If you can dream it, you can do it. Great things never come from comfort zones. Event Sourcing A/B Testing Message Queue RabbitMQ Neural Networks Database Backend Stay hungry, stay foolish. Lambda Functions Quantum Computing Distributed Systems DevOps
 Version Control Automation Content Delivery Network Pull Request Zero Downtime Deployment Data Science
 Cloud Functions Edge Computing To be the best, you must be able to handle the worst. Deployment I find that the harder I work, the more luck I seem to have. Latency Optimization Neural Networks Data Pipeline Sharding Don't be afraid to give up the good to go for the great. Algorithm Firewalls Great things never come from comfort zones. Event Sourcing
+Frontend Docker Testing Load Balancing Containerization Monitoring Big Data DevOps Blockchain
