@@ -11,3 +11,4 @@ DNS Routing Database OAuth Container Orchestration Data Pipeline Security DevOps
 Agile Virtual Machines Firewalls Frontend Difficult roads often lead to beautiful destinations. Lambda Functions Artificial Intelligence Python Distributed Systems I find that the harder I work, the more luck I seem to have. Latency Optimization
 Multi-threading Microservices RabbitMQ GraphQL Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Monitoring Cloud Functions Version Control Scalability
 Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Server Response UX Optimization
+Deployment UX Optimization Version Control API Gateway Performance A/B Testing Framework Zero Downtime Deployment Testing
