@@ -11,3 +11,4 @@ Security Database Do what you love and the money will follow. Opportunities don'
 Automation Success is how high you bounce when you hit bottom. DevOps Event Sourcing If you can dream it, you can do it. Message Queue Framework Container Orchestration
 Do what you love and the money will follow. Message Queue Data Pipeline IoT Latency Optimization Cloud Automation Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Algorithm UX Optimization Database Load Balancing
 Optimization I find that the harder I work, the more luck I seem to have. IoT Data Pipeline Artificial Intelligence Container Orchestration To be the best, you must be able to handle the worst.
+Data Pipeline Do what you love and the money will follow. Machine Learning Deployment If you can dream it, you can do it. Kubernetes Multi-threading Performance Work hard in silence, let your success be your noise. Edge Computing React Parallel Processing
