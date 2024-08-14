@@ -12,3 +12,4 @@ Kubernetes Difficult roads often lead to beautiful destinations. Serverless The 
 Microservices Innovation distinguishes between a leader and a follower. Docker Big Data JavaScript Replica Set Stay hungry, stay foolish. Lambda Functions Database Machine Learning
 If you can dream it, you can do it. JWT Data Pipeline Data Science Algorithm Happiness is not something ready made. It comes from your own actions. Deployment Neural Networks Cache Invalidation Opportunities don't happen. You create them.
 API Sharding Multi-threading Performance Data Pipeline Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
+Python Replica Set Pull Request Monitoring Code Review Agile Work hard in silence, let your success be your noise.

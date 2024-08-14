@@ -13,3 +13,4 @@ Zero Downtime Deployment NLP API Artificial Intelligence Backend Stay hungry, st
 Success doesn’t just find you. You have to go out and get it. GraphQL Firewalls Automation Stay hungry, stay foolish. Server Response CI/CD DNS Routing A/B Testing Code Review Do what you love and the money will follow.
 Agile Neural Networks Simplicity is the ultimate sophistication. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment RabbitMQ Database Indexing UX Optimization Success is not in what you have, but who you are. Containerization
 Machine Learning JWT Neural Networks OAuth Database Indexing Innovation distinguishes between a leader and a follower. Serverless Performance If you can dream it, you can do it. UX Optimization Dream big and dare to fail. Frontend Version Control
+Optimization Scalability Backend OAuth Success is not in what you have, but who you are. Kubernetes Artificial Intelligence
