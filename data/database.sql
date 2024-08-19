@@ -8,3 +8,4 @@ Kafka Event-driven Architecture API Gateway Zero Downtime Deployment DNS Routing
 Scalability Backend Frontend API Stay hungry, stay foolish. Docker Simplicity is the ultimate sophistication. OAuth Dream big and dare to fail. Performance Database
 Cloud Deployment Latency Optimization Cloud Functions Quantum Computing Automation To be the best, you must be able to handle the worst. Backend Dream big and dare to fail. Version Control JavaScript
 Event Sourcing UX Optimization IoT Innovation distinguishes between a leader and a follower. Server Response Kafka
+Microservices Success usually comes to those who are too busy to be looking for it. Container Orchestration If you can dream it, you can do it. Monitoring Distributed Systems API Gateway

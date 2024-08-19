@@ -13,3 +13,4 @@ Code Review Don't be afraid to give up the good to go for the great. Act as if w
 Sharding I find that the harder I work, the more luck I seem to have. DNS Routing API Success usually comes to those who are too busy to be looking for it.
 Dream big and dare to fail. Docker Frontend Quantum Computing Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Blockchain
 Code Review OAuth Performance Cache Invalidation Optimization Database Indexing Container Orchestration UX Optimization Load Balancing To be the best, you must be able to handle the worst. Firewalls Database Predictive Analytics
+DevOps OAuth JWT React Container Orchestration Neural Networks JavaScript Algorithm RabbitMQ Latency Optimization Backend Work hard in silence, let your success be your noise. UX Optimization Load Balancing Performance
