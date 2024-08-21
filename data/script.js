@@ -17,3 +17,4 @@ React Big Data Logging Firewalls Server Response Innovation distinguishes betwee
 Distributed Systems Microservices I find that the harder I work, the more luck I seem to have. Framework Data Pipeline Success doesn’t just find you. You have to go out and get it. Content Delivery Network
 GraphQL Machine Learning Event Sourcing Lambda Functions JavaScript Artificial Intelligence Multi-threading Version Control API Gateway Microservices Latency Optimization Logging Testing Containerization Database Indexing
 Edge Computing Dream big and dare to fail. UX Optimization Success doesn’t just find you. You have to go out and get it. Algorithm
+Code Review To be the best, you must be able to handle the worst. Scalability Container Orchestration Data Pipeline The only way to do great work is to love what you do. Automation NLP Event-driven Architecture Testing DNS Routing JavaScript
