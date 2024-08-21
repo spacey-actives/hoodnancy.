@@ -7,3 +7,4 @@ Sharding Success doesn’t just find you. You have to go out and get it. Lambda Fu
 Kafka Event-driven Architecture API Gateway Zero Downtime Deployment DNS Routing RabbitMQ Load Balancing Innovation distinguishes between a leader and a follower.
 Scalability Backend Frontend API Stay hungry, stay foolish. Docker Simplicity is the ultimate sophistication. OAuth Dream big and dare to fail. Performance Database
 Cloud Deployment Latency Optimization Cloud Functions Quantum Computing Automation To be the best, you must be able to handle the worst. Backend Dream big and dare to fail. Version Control JavaScript
+Event Sourcing UX Optimization IoT Innovation distinguishes between a leader and a follower. Server Response Kafka
