@@ -14,3 +14,4 @@ Data Science Event Sourcing Content Delivery Network Microservices Logging Dream
 JavaScript Security Cloud Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Multi-threading Backend Python Optimization Artificial Intelligence Success is how high you bounce when you hit bottom.
 Happiness is not something ready made. It comes from your own actions. Microservices Cloud A/B Testing NLP To be the best, you must be able to handle the worst.
 Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Zero Downtime Deployment NLP Scalability Quantum Computing Code Review To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it.
+Containerization Data Pipeline Edge Computing Simplicity is the ultimate sophistication. Parallel Processing Testing Content Delivery Network CI/CD RabbitMQ Container Orchestration API Gateway
