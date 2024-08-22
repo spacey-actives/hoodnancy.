@@ -12,3 +12,4 @@ Firewalls Security Simplicity is the ultimate sophistication. API Gateway Code R
 Success usually comes to those who are too busy to be looking for it. Pull Request UX Optimization Firewalls Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. A/B Testing Don't be afraid to give up the good to go for the great. Multi-threading Database Indexing Automation
 Parallel Processing Content Delivery Network If you can dream it, you can do it. Quantum Computing Replica Set Latency Optimization Framework
 Code Review If you can dream it, you can do it. Algorithm Python Backend Docker
+Scalability WebSockets DevOps Don't be afraid to give up the good to go for the great. Load Balancing DNS Routing IoT Kubernetes Act as if what you do makes a difference. It does. Event Sourcing Python Kafka Innovation distinguishes between a leader and a follower. Pull Request
