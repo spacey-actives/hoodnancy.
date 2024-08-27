@@ -13,3 +13,4 @@ Load Balancing React Cloud Functions Performance Logging Lambda Functions Micros
 Cloud Functions Server Response Performance Message Queue Kubernetes
 The only way to do great work is to love what you do. NLP Pull Request API Gateway Containerization Firewalls Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Sharding Data Pipeline Blockchain Code Review
 Database A/B Testing UX Optimization JWT Microservices Artificial Intelligence Machine Learning API Success usually comes to those who are too busy to be looking for it. React Zero Downtime Deployment Neural Networks Parallel Processing Message Queue
+Big Data JavaScript Automation Pull Request Data Science Neural Networks Great things never come from comfort zones. Do what you love and the money will follow. Containerization Optimization Artificial Intelligence
