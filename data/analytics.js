@@ -9,3 +9,4 @@ Great things never come from comfort zones. Dream big and dare to fail. Success 
 Latency Optimization UX Optimization Content Delivery Network Difficult roads often lead to beautiful destinations. Kubernetes JWT Edge Computing Data Science Data Pipeline Agile
 Security Database Do what you love and the money will follow. Opportunities don't happen. You create them. Agile
 Automation Success is how high you bounce when you hit bottom. DevOps Event Sourcing If you can dream it, you can do it. Message Queue Framework Container Orchestration
+Do what you love and the money will follow. Message Queue Data Pipeline IoT Latency Optimization Cloud Automation Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Algorithm UX Optimization Database Load Balancing

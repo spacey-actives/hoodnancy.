@@ -9,3 +9,4 @@ Distributed Systems Agile Pull Request React Kafka Framework Replica Set DevOps 
 Backend Firewalls Latency Optimization API Gateway Blockchain Kafka Dream big and dare to fail. Python
 DNS Routing Database OAuth Container Orchestration Data Pipeline Security DevOps Difficult roads often lead to beautiful destinations. Algorithm Microservices Artificial Intelligence Firewalls
 Agile Virtual Machines Firewalls Frontend Difficult roads often lead to beautiful destinations. Lambda Functions Artificial Intelligence Python Distributed Systems I find that the harder I work, the more luck I seem to have. Latency Optimization
+Multi-threading Microservices RabbitMQ GraphQL Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Monitoring Cloud Functions Version Control Scalability
