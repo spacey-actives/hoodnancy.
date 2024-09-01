@@ -8,3 +8,4 @@ Framework DevOps React Success usually comes to those who are too busy to be loo
 Distributed Systems Agile Pull Request React Kafka Framework Replica Set DevOps DNS Routing Serverless Message Queue Parallel Processing Don't be afraid to give up the good to go for the great. NLP Success doesn’t just find you. You have to go out and get it.
 Backend Firewalls Latency Optimization API Gateway Blockchain Kafka Dream big and dare to fail. Python
 DNS Routing Database OAuth Container Orchestration Data Pipeline Security DevOps Difficult roads often lead to beautiful destinations. Algorithm Microservices Artificial Intelligence Firewalls
+Agile Virtual Machines Firewalls Frontend Difficult roads often lead to beautiful destinations. Lambda Functions Artificial Intelligence Python Distributed Systems I find that the harder I work, the more luck I seem to have. Latency Optimization

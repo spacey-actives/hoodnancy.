@@ -15,3 +15,4 @@ Pull Request Act as if what you do makes a difference. It does. Monitoring Optim
 Act as if what you do makes a difference. It does. WebSockets Parallel Processing JWT Success usually comes to those who are too busy to be looking for it. Framework Backend Innovation distinguishes between a leader and a follower.
 React Big Data Logging Firewalls Server Response Innovation distinguishes between a leader and a follower. Container Orchestration Cache Invalidation
 Distributed Systems Microservices I find that the harder I work, the more luck I seem to have. Framework Data Pipeline Success doesn’t just find you. You have to go out and get it. Content Delivery Network
+GraphQL Machine Learning Event Sourcing Lambda Functions JavaScript Artificial Intelligence Multi-threading Version Control API Gateway Microservices Latency Optimization Logging Testing Containerization Database Indexing
