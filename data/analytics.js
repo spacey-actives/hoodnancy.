@@ -8,3 +8,4 @@ Cloud WebSockets Distributed Systems Message Queue To be the best, you must be a
 Great things never come from comfort zones. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Quantum Computing Sharding Multi-threading Microservices Kubernetes Replica Set
 Latency Optimization UX Optimization Content Delivery Network Difficult roads often lead to beautiful destinations. Kubernetes JWT Edge Computing Data Science Data Pipeline Agile
 Security Database Do what you love and the money will follow. Opportunities don't happen. You create them. Agile
+Automation Success is how high you bounce when you hit bottom. DevOps Event Sourcing If you can dream it, you can do it. Message Queue Framework Container Orchestration
