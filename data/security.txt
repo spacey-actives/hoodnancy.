@@ -11,3 +11,4 @@ CI/CD Machine Learning Security Virtual Machines React RabbitMQ A/B Testing Late
 Kubernetes Difficult roads often lead to beautiful destinations. Serverless The only way to do great work is to love what you do. Frontend OAuth Container Orchestration DNS Routing API Gateway Work hard in silence, let your success be your noise.
 Microservices Innovation distinguishes between a leader and a follower. Docker Big Data JavaScript Replica Set Stay hungry, stay foolish. Lambda Functions Database Machine Learning
 If you can dream it, you can do it. JWT Data Pipeline Data Science Algorithm Happiness is not something ready made. It comes from your own actions. Deployment Neural Networks Cache Invalidation Opportunities don't happen. You create them.
+API Sharding Multi-threading Performance Data Pipeline Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
