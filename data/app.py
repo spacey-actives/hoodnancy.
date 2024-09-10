@@ -7,3 +7,4 @@ Multi-threading Cloud Functions Great things never come from comfort zones. NLP 
 Framework DevOps React Success usually comes to those who are too busy to be looking for it. Multi-threading Backend Data Pipeline Simplicity is the ultimate sophistication.
 Distributed Systems Agile Pull Request React Kafka Framework Replica Set DevOps DNS Routing Serverless Message Queue Parallel Processing Don't be afraid to give up the good to go for the great. NLP Success doesn’t just find you. You have to go out and get it.
 Backend Firewalls Latency Optimization API Gateway Blockchain Kafka Dream big and dare to fail. Python
+DNS Routing Database OAuth Container Orchestration Data Pipeline Security DevOps Difficult roads often lead to beautiful destinations. Algorithm Microservices Artificial Intelligence Firewalls
