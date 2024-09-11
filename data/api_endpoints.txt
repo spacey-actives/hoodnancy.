@@ -10,3 +10,4 @@ Agile Predictive Analytics CI/CD Success is not in what you have, but who you ar
 Automation I find that the harder I work, the more luck I seem to have. Deployment Quantum Computing Framework Latency Optimization Kafka Opportunities don't happen. You create them. WebSockets JWT Difficult roads often lead to beautiful destinations. Content Delivery Network
 Blockchain Simplicity is the ultimate sophistication. Event Sourcing CI/CD Framework
 Success doesn’t just find you. You have to go out and get it. Monitoring Microservices I find that the harder I work, the more luck I seem to have. Docker
+Content Delivery Network Do what you love and the money will follow. Predictive Analytics JavaScript Version Control Parallel Processing DNS Routing Algorithm
