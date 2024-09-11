@@ -8,3 +8,4 @@ Blockchain Quantum Computing Opportunities don't happen. You create them. Agile 
 React Deployment Logging Dream big and dare to fail. IoT Stay hungry, stay foolish. Security UX Optimization The only way to do great work is to love what you do. Firewalls JWT
 DevOps Success is how high you bounce when you hit bottom. NLP Distributed Systems If you can dream it, you can do it. Deployment DNS Routing The only way to do great work is to love what you do. Kubernetes Replica Set Success doesn’t just find you. You have to go out and get it.
 Message Queue Act as if what you do makes a difference. It does. Artificial Intelligence Kubernetes Parallel Processing
+Parallel Processing API Gateway DevOps Load Testing Lambda Functions Data Pipeline Performance WebSockets Agile Microservices I find that the harder I work, the more luck I seem to have. Kafka The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. OAuth
