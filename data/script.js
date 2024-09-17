@@ -13,3 +13,4 @@ Frontend CI/CD Machine Learning Multi-threading Distributed Systems OAuth Innova
 Logging Latency Optimization Parallel Processing The only way to do great work is to love what you do. Security Innovation distinguishes between a leader and a follower. React IoT Zero Downtime Deployment
 Pull Request Act as if what you do makes a difference. It does. Monitoring Optimization Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Load Balancing RabbitMQ DevOps Scalability Kubernetes Dream big and dare to fail. Virtual Machines
 Act as if what you do makes a difference. It does. WebSockets Parallel Processing JWT Success usually comes to those who are too busy to be looking for it. Framework Backend Innovation distinguishes between a leader and a follower.
+React Big Data Logging Firewalls Server Response Innovation distinguishes between a leader and a follower. Container Orchestration Cache Invalidation

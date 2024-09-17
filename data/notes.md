@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. Success d
 Event-driven Architecture WebSockets OAuth Frontend Security JWT Blockchain Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Database Indexing
 Replica Set The only way to do great work is to love what you do. Framework Python Load Testing Success doesn’t just find you. You have to go out and get it. GraphQL Serverless
 Microservices RabbitMQ Kafka Distributed Systems Scalability
+If you can dream it, you can do it. Work hard in silence, let your success be your noise. JWT Machine Learning Artificial Intelligence Pull Request Parallel Processing Kubernetes Load Balancing Automation Event Sourcing Innovation distinguishes between a leader and a follower. Deployment Kafka
