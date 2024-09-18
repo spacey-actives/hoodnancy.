@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Dream big and dare to fail
 Quantum Computing Logging Stay hungry, stay foolish. JWT Frontend Kafka RabbitMQ Latency Optimization Success is not in what you have, but who you are. Scalability Microservices Docker
 Agile Predictive Analytics CI/CD Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Cloud Functions Data Science NLP Testing Stay hungry, stay foolish. Event Sourcing A/B Testing API Security If you can dream it, you can do it.
 Automation I find that the harder I work, the more luck I seem to have. Deployment Quantum Computing Framework Latency Optimization Kafka Opportunities don't happen. You create them. WebSockets JWT Difficult roads often lead to beautiful destinations. Content Delivery Network
+Blockchain Simplicity is the ultimate sophistication. Event Sourcing CI/CD Framework
