@@ -16,3 +16,4 @@ React Success is not in what you have, but who you are. The only way to do great
 Success is how high you bounce when you hit bottom. React Content Delivery Network JWT RabbitMQ Predictive Analytics DevOps GraphQL Success usually comes to those who are too busy to be looking for it. Framework Success is not in what you have, but who you are. Backend
 Difficult roads often lead to beautiful destinations. Serverless DevOps Version Control JavaScript Act as if what you do makes a difference. It does. Dream big and dare to fail.
 Security Kubernetes React Message Queue Frontend
+Innovation distinguishes between a leader and a follower. Docker Difficult roads often lead to beautiful destinations. WebSockets Don't be afraid to give up the good to go for the great. IoT Automation Testing Event-driven Architecture
