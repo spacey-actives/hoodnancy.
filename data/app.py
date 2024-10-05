@@ -5,3 +5,4 @@ Zero Downtime Deployment Edge Computing Monitoring Predictive Analytics CI/CD Se
 Data Science Backend Serverless Database GraphQL
 Multi-threading Cloud Functions Great things never come from comfort zones. NLP Containerization Performance Microservices
 Framework DevOps React Success usually comes to those who are too busy to be looking for it. Multi-threading Backend Data Pipeline Simplicity is the ultimate sophistication.
+Distributed Systems Agile Pull Request React Kafka Framework Replica Set DevOps DNS Routing Serverless Message Queue Parallel Processing Don't be afraid to give up the good to go for the great. NLP Success doesn’t just find you. You have to go out and get it.
