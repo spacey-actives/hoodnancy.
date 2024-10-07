@@ -10,3 +10,4 @@ JavaScript IoT Multi-threading NLP Event Sourcing Container Orchestration Succes
 CI/CD OAuth Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Load Balancing NLP
 IoT A/B Testing Serverless Container Orchestration Virtual Machines
 Version Control Deployment Event-driven Architecture Containerization Pull Request Frontend Innovation distinguishes between a leader and a follower. Database Automation Backend Python Act as if what you do makes a difference. It does. Zero Downtime Deployment If you can dream it, you can do it.
+Distributed Systems Frontend Act as if what you do makes a difference. It does. Neural Networks Success is how high you bounce when you hit bottom. Serverless IoT Work hard in silence, let your success be your noise. Latency Optimization Event-driven Architecture I find that the harder I work, the more luck I seem to have. JavaScript

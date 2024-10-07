@@ -14,3 +14,4 @@ React Data Science Algorithm Distributed Systems GraphQL The only way to do grea
 DevOps Database Great things never come from comfort zones. Neural Networks GraphQL
 React Success is not in what you have, but who you are. The only way to do great work is to love what you do. Logging Predictive Analytics Cache Invalidation Virtual Machines Framework GraphQL Data Pipeline OAuth
 Success is how high you bounce when you hit bottom. React Content Delivery Network JWT RabbitMQ Predictive Analytics DevOps GraphQL Success usually comes to those who are too busy to be looking for it. Framework Success is not in what you have, but who you are. Backend
+Difficult roads often lead to beautiful destinations. Serverless DevOps Version Control JavaScript Act as if what you do makes a difference. It does. Dream big and dare to fail.
