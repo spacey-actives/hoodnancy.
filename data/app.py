@@ -4,3 +4,4 @@ Simplicity is the ultimate sophistication. Load Testing Quantum Computing Latenc
 Zero Downtime Deployment Edge Computing Monitoring Predictive Analytics CI/CD Server Response Distributed Systems Artificial Intelligence Cloud Functions Cloud
 Data Science Backend Serverless Database GraphQL
 Multi-threading Cloud Functions Great things never come from comfort zones. NLP Containerization Performance Microservices
+Framework DevOps React Success usually comes to those who are too busy to be looking for it. Multi-threading Backend Data Pipeline Simplicity is the ultimate sophistication.
