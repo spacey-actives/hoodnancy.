@@ -10,3 +10,4 @@ Zero Downtime Deployment Load Testing Virtual Machines Simplicity is the ultimat
 Testing Stay hungry, stay foolish. Predictive Analytics DNS Routing Event Sourcing WebSockets Content Delivery Network Sharding
 Work hard in silence, let your success be your noise. Cache Invalidation Data Science OAuth Content Delivery Network Event-driven Architecture Machine Learning API Gateway Cloud Artificial Intelligence JWT To be the best, you must be able to handle the worst. Code Review Stay hungry, stay foolish.
 Zero Downtime Deployment NLP API Artificial Intelligence Backend Stay hungry, stay foolish.
+Success doesn’t just find you. You have to go out and get it. GraphQL Firewalls Automation Stay hungry, stay foolish. Server Response CI/CD DNS Routing A/B Testing Code Review Do what you love and the money will follow.
