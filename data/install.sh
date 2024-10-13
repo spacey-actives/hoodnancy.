@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Zero Downtime Deployme
 Success doesn’t just find you. You have to go out and get it. Replica Set OAuth Serverless DevOps Big Data NLP To be the best, you must be able to handle the worst.
 Don't be afraid to give up the good to go for the great. Quantum Computing Zero Downtime Deployment Cloud Functions A/B Testing Stay hungry, stay foolish. Cache Invalidation DNS Routing Event-driven Architecture Frontend Success is how high you bounce when you hit bottom.
 Cloud If you can dream it, you can do it. Great things never come from comfort zones. Event Sourcing A/B Testing Message Queue RabbitMQ Neural Networks Database Backend Stay hungry, stay foolish. Lambda Functions Quantum Computing Distributed Systems DevOps
+Version Control Automation Content Delivery Network Pull Request Zero Downtime Deployment Data Science
