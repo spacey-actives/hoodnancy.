@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. Dream big and dare
 Success usually comes to those who are too busy to be looking for it. Code Review API Gateway Simplicity is the ultimate sophistication. A/B Testing NLP Cloud Functions Machine Learning Parallel Processing Cache Invalidation Security Blockchain Agile
 Cloud WebSockets Distributed Systems Message Queue To be the best, you must be able to handle the worst. Multi-threading Opportunities don't happen. You create them.
 Great things never come from comfort zones. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Quantum Computing Sharding Multi-threading Microservices Kubernetes Replica Set
+Latency Optimization UX Optimization Content Delivery Network Difficult roads often lead to beautiful destinations. Kubernetes JWT Edge Computing Data Science Data Pipeline Agile

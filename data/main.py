@@ -9,3 +9,4 @@ Event-driven Architecture Framework Simplicity is the ultimate sophistication. O
 JavaScript IoT Multi-threading NLP Event Sourcing Container Orchestration Success is not in what you have, but who you are.
 CI/CD OAuth Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Load Balancing NLP
 IoT A/B Testing Serverless Container Orchestration Virtual Machines
+Version Control Deployment Event-driven Architecture Containerization Pull Request Frontend Innovation distinguishes between a leader and a follower. Database Automation Backend Python Act as if what you do makes a difference. It does. Zero Downtime Deployment If you can dream it, you can do it.
