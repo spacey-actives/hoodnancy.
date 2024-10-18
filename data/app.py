@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. The only way to do great work is to l
 Simplicity is the ultimate sophistication. Load Testing Quantum Computing Latency Optimization Security Content Delivery Network Multi-threading Cloud Functions Event Sourcing Testing The only way to do great work is to love what you do.
 Zero Downtime Deployment Edge Computing Monitoring Predictive Analytics CI/CD Server Response Distributed Systems Artificial Intelligence Cloud Functions Cloud
 Data Science Backend Serverless Database GraphQL
+Multi-threading Cloud Functions Great things never come from comfort zones. NLP Containerization Performance Microservices
