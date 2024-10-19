@@ -7,3 +7,4 @@ Logging Quantum Computing I find that the harder I work, the more luck I seem to
 Blockchain Testing Cloud Functions Parallel Processing Multi-threading A/B Testing Quantum Computing To be the best, you must be able to handle the worst.
 Stay hungry, stay foolish. Containerization Scalability Quantum Computing DevOps Cloud Functions Zero Downtime Deployment OAuth RabbitMQ Automation
 Zero Downtime Deployment Load Testing Virtual Machines Simplicity is the ultimate sophistication. Scalability DevOps A/B Testing Innovation distinguishes between a leader and a follower. WebSockets Cloud Data Pipeline Cache Invalidation Opportunities don't happen. You create them.
+Testing Stay hungry, stay foolish. Predictive Analytics DNS Routing Event Sourcing WebSockets Content Delivery Network Sharding

@@ -12,3 +12,4 @@ Optimization Event Sourcing IoT Do what you love and the money will follow. Don'
 Cache Invalidation Testing Do what you love and the money will follow. Load Balancing Cloud Functions Framework
 React Data Science Algorithm Distributed Systems GraphQL The only way to do great work is to love what you do. Machine Learning DNS Routing Database Indexing Agile Deployment API Optimization
 DevOps Database Great things never come from comfort zones. Neural Networks GraphQL
+React Success is not in what you have, but who you are. The only way to do great work is to love what you do. Logging Predictive Analytics Cache Invalidation Virtual Machines Framework GraphQL Data Pipeline OAuth
