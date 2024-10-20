@@ -6,3 +6,4 @@ Cache Invalidation Testing Success is not in what you have, but who you are. Kaf
 React CI/CD Latency Optimization Parallel Processing Don't be afraid to give up the good to go for the great. API Gateway A/B Testing
 Framework Scalability Success is how high you bounce when you hit bottom. IoT Backend Firewalls Monitoring Multi-threading
 Great things never come from comfort zones. Message Queue Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Cloud Functions Pull Request React Kubernetes Parallel Processing Quantum Computing Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
+Version Control CI/CD NLP Dream big and dare to fail. JavaScript Cloud Functions Kubernetes I find that the harder I work, the more luck I seem to have.

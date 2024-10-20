@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Container
 Message Queue Predictive Analytics Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Database JavaScript Testing Data Pipeline
 Blockchain Quantum Computing Opportunities don't happen. You create them. Agile Cloud Functions Monitoring Cloud Success doesn’t just find you. You have to go out and get it. Serverless
 React Deployment Logging Dream big and dare to fail. IoT Stay hungry, stay foolish. Security UX Optimization The only way to do great work is to love what you do. Firewalls JWT
+DevOps Success is how high you bounce when you hit bottom. NLP Distributed Systems If you can dream it, you can do it. Deployment DNS Routing The only way to do great work is to love what you do. Kubernetes Replica Set Success doesn’t just find you. You have to go out and get it.
