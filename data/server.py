@@ -7,3 +7,4 @@ A/B Testing I find that the harder I work, the more luck I seem to have. Load Ba
 Dream big and dare to fail. Automation Python API Gateway Virtual Machines Big Data Cloud Functions Testing Difficult roads often lead to beautiful destinations.
 Backend Zero Downtime Deployment CI/CD If you can dream it, you can do it. Firewalls Do what you love and the money will follow.
 Container Orchestration Simplicity is the ultimate sophistication. Automation Neural Networks Serverless Kafka Stay hungry, stay foolish. Edge Computing Firewalls Do what you love and the money will follow. GraphQL Containerization API RabbitMQ Happiness is not something ready made. It comes from your own actions.
+Parallel Processing Event-driven Architecture Latency Optimization Agile Kafka Content Delivery Network DevOps Optimization Neural Networks Server Response Distributed Systems Frontend Microservices Container Orchestration Event Sourcing

@@ -11,3 +11,4 @@ Container Orchestration Server Response Load Balancing NLP Act as if what you do
 WebSockets Great things never come from comfort zones. Database Indexing Lambda Functions Event-driven Architecture Dream big and dare to fail. Innovation distinguishes between a leader and a follower. React Kubernetes RabbitMQ
 Frontend CI/CD Machine Learning Multi-threading Distributed Systems OAuth Innovation distinguishes between a leader and a follower.
 Logging Latency Optimization Parallel Processing The only way to do great work is to love what you do. Security Innovation distinguishes between a leader and a follower. React IoT Zero Downtime Deployment
+Pull Request Act as if what you do makes a difference. It does. Monitoring Optimization Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Load Balancing RabbitMQ DevOps Scalability Kubernetes Dream big and dare to fail. Virtual Machines
