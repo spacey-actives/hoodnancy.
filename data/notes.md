@@ -6,3 +6,4 @@ Automation Event-driven Architecture Deployment Stay hungry, stay foolish. Dream
 JWT Content Delivery Network Lambda Functions Event Sourcing Big Data Great things never come from comfort zones. Blockchain Automation
 Parallel Processing Security Backend Neural Networks RabbitMQ Performance Success is not in what you have, but who you are. Message Queue Distributed Systems Containerization Great things never come from comfort zones. Testing Virtual Machines Artificial Intelligence To be the best, you must be able to handle the worst.
 Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Do what you love and the money will follow. Stay hungry, stay foolish. Zero Downtime Deployment Docker Backend Opportunities don't happen. You create them. Code Review
+Version Control Optimization CI/CD Success is not in what you have, but who you are. RabbitMQ
