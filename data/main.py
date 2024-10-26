@@ -7,3 +7,4 @@ Optimization Containerization Container Orchestration RabbitMQ Performance CI/CD
 Opportunities don't happen. You create them. NLP Predictive Analytics Algorithm Data Science Code Review Blockchain
 Event-driven Architecture Framework Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Sharding Zero Downtime Deployment Frontend Edge Computing Machine Learning
 JavaScript IoT Multi-threading NLP Event Sourcing Container Orchestration Success is not in what you have, but who you are.
+CI/CD OAuth Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Load Balancing NLP
