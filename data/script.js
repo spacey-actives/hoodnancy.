@@ -8,3 +8,4 @@ Event Sourcing DevOps API Gateway Do what you love and the money will follow. La
 Cloud Deployment DNS Routing Great things never come from comfort zones. Data Science Backend Message Queue Frontend Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Python UX Optimization
 React Container Orchestration Deployment Lambda Functions Security Code Review
 Container Orchestration Server Response Load Balancing NLP Act as if what you do makes a difference. It does.
+WebSockets Great things never come from comfort zones. Database Indexing Lambda Functions Event-driven Architecture Dream big and dare to fail. Innovation distinguishes between a leader and a follower. React Kubernetes RabbitMQ
