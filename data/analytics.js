@@ -4,3 +4,4 @@ RabbitMQ The only way to do great work is to love what you do. Agile Load Testin
 DevOps Great things never come from comfort zones. Content Delivery Network OAuth Load Testing Cache Invalidation Framework
 Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Microservices Blockchain Logging WebSockets Multi-threading Kafka If you can dream it, you can do it.
 Success usually comes to those who are too busy to be looking for it. Code Review API Gateway Simplicity is the ultimate sophistication. A/B Testing NLP Cloud Functions Machine Learning Parallel Processing Cache Invalidation Security Blockchain Agile
+Cloud WebSockets Distributed Systems Message Queue To be the best, you must be able to handle the worst. Multi-threading Opportunities don't happen. You create them.
