@@ -8,3 +8,4 @@ Neural Networks Message Queue DevOps CI/CD Python Kubernetes Cache Invalidation 
 Event-driven Architecture Don't be afraid to give up the good to go for the great. Load Balancing Content Delivery Network Virtual Machines A/B Testing
 Machine Learning Sharding Deployment Success usually comes to those who are too busy to be looking for it. Edge Computing Pull Request Multi-threading Testing Server Response
 CI/CD Machine Learning Security Virtual Machines React RabbitMQ A/B Testing Latency Optimization Containerization Optimization API Gateway Container Orchestration GraphQL
+Kubernetes Difficult roads often lead to beautiful destinations. Serverless The only way to do great work is to love what you do. Frontend OAuth Container Orchestration DNS Routing API Gateway Work hard in silence, let your success be your noise.
