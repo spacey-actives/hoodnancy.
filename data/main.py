@@ -6,3 +6,4 @@ CI/CD Server Response Stay hungry, stay foolish. Performance A/B Testing Load Ba
 Optimization Containerization Container Orchestration RabbitMQ Performance CI/CD Version Control Act as if what you do makes a difference. It does. Edge Computing
 Opportunities don't happen. You create them. NLP Predictive Analytics Algorithm Data Science Code Review Blockchain
 Event-driven Architecture Framework Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Sharding Zero Downtime Deployment Frontend Edge Computing Machine Learning
+JavaScript IoT Multi-threading NLP Event Sourcing Container Orchestration Success is not in what you have, but who you are.
