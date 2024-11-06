@@ -4,3 +4,4 @@ Pull Request Artificial Intelligence DevOps Kafka Database Dream big and dare to
 Container Orchestration RabbitMQ Message Queue Testing Opportunities don't happen. You create them. Edge Computing Don't be afraid to give up the good to go for the great. React JWT Agile
 Deployment Load Testing Backend Containerization Event-driven Architecture Quantum Computing Work hard in silence, let your success be your noise. DevOps The only way to do great work is to love what you do.
 A/B Testing I find that the harder I work, the more luck I seem to have. Load Balancing Event-driven Architecture Version Control Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Server Response WebSockets Success is not in what you have, but who you are. Quantum Computing
+Dream big and dare to fail. Automation Python API Gateway Virtual Machines Big Data Cloud Functions Testing Difficult roads often lead to beautiful destinations.

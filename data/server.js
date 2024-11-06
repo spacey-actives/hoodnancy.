@@ -6,3 +6,4 @@ Act as if what you do makes a difference. It does. DevOps API Big Data Innovatio
 Data Science RabbitMQ Cloud Functions Docker NLP API Gateway Event Sourcing Performance Version Control Success usually comes to those who are too busy to be looking for it. Container Orchestration Database Indexing Pull Request
 Microservices Automation Firewalls Sharding Deployment Server Response Kafka Kubernetes A/B Testing Docker To be the best, you must be able to handle the worst. CI/CD API Gateway
 Pull Request Docker Success is how high you bounce when you hit bottom. Code Review I find that the harder I work, the more luck I seem to have. Microservices Cloud Event-driven Architecture JavaScript WebSockets Blockchain Event Sourcing
+Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Data Science Microservices Cache Invalidation Database Database Indexing Version Control IoT Predictive Analytics Blockchain Frontend
