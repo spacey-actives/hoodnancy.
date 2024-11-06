@@ -7,3 +7,4 @@ Do what you love and the money will follow. JWT GraphQL Lambda Functions Machine
 Neural Networks Message Queue DevOps CI/CD Python Kubernetes Cache Invalidation Zero Downtime Deployment Cloud Functions
 Event-driven Architecture Don't be afraid to give up the good to go for the great. Load Balancing Content Delivery Network Virtual Machines A/B Testing
 Machine Learning Sharding Deployment Success usually comes to those who are too busy to be looking for it. Edge Computing Pull Request Multi-threading Testing Server Response
+CI/CD Machine Learning Security Virtual Machines React RabbitMQ A/B Testing Latency Optimization Containerization Optimization API Gateway Container Orchestration GraphQL
