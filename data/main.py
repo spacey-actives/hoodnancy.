@@ -5,3 +5,4 @@ Testing Load Testing Virtual Machines Cloud Functions JavaScript Microservices S
 CI/CD Server Response Stay hungry, stay foolish. Performance A/B Testing Load Balancing Frontend Content Delivery Network Backend To be the best, you must be able to handle the worst. Agile Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Testing Security
 Optimization Containerization Container Orchestration RabbitMQ Performance CI/CD Version Control Act as if what you do makes a difference. It does. Edge Computing
 Opportunities don't happen. You create them. NLP Predictive Analytics Algorithm Data Science Code Review Blockchain
+Event-driven Architecture Framework Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Sharding Zero Downtime Deployment Frontend Edge Computing Machine Learning
