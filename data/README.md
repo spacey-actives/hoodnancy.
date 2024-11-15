@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Load Balancing Test
 Multi-threading Performance Artificial Intelligence Replica Set Predictive Analytics React Quantum Computing Load Testing Agile Monitoring To be the best, you must be able to handle the worst. Automation Cloud Functions Python
 Cloud Monitoring Python Event-driven Architecture Automation Pull Request CI/CD Backend Algorithm
 Optimization Event Sourcing IoT Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Frontend Success is how high you bounce when you hit bottom. Cloud Functions Stay hungry, stay foolish. Virtual Machines
+Cache Invalidation Testing Do what you love and the money will follow. Load Balancing Cloud Functions Framework
