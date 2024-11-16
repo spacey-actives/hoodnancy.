@@ -2,3 +2,4 @@ API Happiness is not something ready made. It comes from your own actions. Micro
 Deployment JavaScript DevOps Quantum Computing A/B Testing Message Queue Happiness is not something ready made. It comes from your own actions. Data Science
 Pull Request Artificial Intelligence DevOps Kafka Database Dream big and dare to fail. Sharding Algorithm The only way to do great work is to love what you do. WebSockets Python I find that the harder I work, the more luck I seem to have.
 Container Orchestration RabbitMQ Message Queue Testing Opportunities don't happen. You create them. Edge Computing Don't be afraid to give up the good to go for the great. React JWT Agile
+Deployment Load Testing Backend Containerization Event-driven Architecture Quantum Computing Work hard in silence, let your success be your noise. DevOps The only way to do great work is to love what you do.
