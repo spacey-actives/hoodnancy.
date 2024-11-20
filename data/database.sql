@@ -4,3 +4,4 @@ DevOps Testing Frontend Work hard in silence, let your success be your noise. Bl
 Deployment Don't be afraid to give up the good to go for the great. Containerization API Gateway Firewalls Scalability Cache Invalidation Code Review
 Docker Machine Learning Monitoring A/B Testing Latency Optimization Code Review Stay hungry, stay foolish.
 Sharding Success doesn’t just find you. You have to go out and get it. Lambda Functions Innovation distinguishes between a leader and a follower. API Simplicity is the ultimate sophistication. Performance Docker Success is not in what you have, but who you are. Content Delivery Network Cloud Database Deployment Happiness is not something ready made. It comes from your own actions.
+Kafka Event-driven Architecture API Gateway Zero Downtime Deployment DNS Routing RabbitMQ Load Balancing Innovation distinguishes between a leader and a follower.

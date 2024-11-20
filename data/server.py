@@ -1,3 +1,4 @@
 API Happiness is not something ready made. It comes from your own actions. Microservices Do what you love and the money will follow. DNS Routing Load Balancing Message Queue Performance Data Pipeline Success doesn’t just find you. You have to go out and get it.
 Deployment JavaScript DevOps Quantum Computing A/B Testing Message Queue Happiness is not something ready made. It comes from your own actions. Data Science
 Pull Request Artificial Intelligence DevOps Kafka Database Dream big and dare to fail. Sharding Algorithm The only way to do great work is to love what you do. WebSockets Python I find that the harder I work, the more luck I seem to have.
+Container Orchestration RabbitMQ Message Queue Testing Opportunities don't happen. You create them. Edge Computing Don't be afraid to give up the good to go for the great. React JWT Agile
