@@ -7,3 +7,4 @@ Great things never come from comfort zones. RabbitMQ Pull Request React Virtual 
 DNS Routing Predictive Analytics Artificial Intelligence Microservices Backend Simplicity is the ultimate sophistication. Do what you love and the money will follow. Version Control Edge Computing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Replica Set
 I find that the harder I work, the more luck I seem to have. Load Balancing Testing Cache Invalidation Stay hungry, stay foolish. A/B Testing Lambda Functions
 Multi-threading Performance Artificial Intelligence Replica Set Predictive Analytics React Quantum Computing Load Testing Agile Monitoring To be the best, you must be able to handle the worst. Automation Cloud Functions Python
+Cloud Monitoring Python Event-driven Architecture Automation Pull Request CI/CD Backend Algorithm
