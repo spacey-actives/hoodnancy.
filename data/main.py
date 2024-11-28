@@ -3,3 +3,4 @@ Data Pipeline JWT Algorithm Lambda Functions WebSockets Load Balancing IoT API S
 Pull Request Opportunities don't happen. You create them. Virtual Machines A/B Testing DevOps Quantum Computing Agile Dream big and dare to fail.
 Testing Load Testing Virtual Machines Cloud Functions JavaScript Microservices Serverless Blockchain
 CI/CD Server Response Stay hungry, stay foolish. Performance A/B Testing Load Balancing Frontend Content Delivery Network Backend To be the best, you must be able to handle the worst. Agile Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Testing Security
+Optimization Containerization Container Orchestration RabbitMQ Performance CI/CD Version Control Act as if what you do makes a difference. It does. Edge Computing
