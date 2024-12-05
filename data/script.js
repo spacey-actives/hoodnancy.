@@ -6,3 +6,4 @@ Load Testing Load Balancing Sharding Version Control Security Blockchain
 Scalability Virtual Machines Firewalls Load Testing React Containerization Event-driven Architecture A/B Testing Load Balancing NLP WebSockets Performance
 Event Sourcing DevOps API Gateway Do what you love and the money will follow. Lambda Functions Load Testing Docker
 Cloud Deployment DNS Routing Great things never come from comfort zones. Data Science Backend Message Queue Frontend Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Python UX Optimization
+React Container Orchestration Deployment Lambda Functions Security Code Review

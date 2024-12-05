@@ -3,3 +3,4 @@ Data Science IoT Security DevOps Data Pipeline Act as if what you do makes a dif
 Database Indexing Blockchain React IoT Code Review The only way to do great work is to love what you do. Zero Downtime Deployment Stay hungry, stay foolish.
 Blockchain Algorithm Cloud Functions Quantum Computing Monitoring Load Balancing Load Testing API Gateway Deployment
 Act as if what you do makes a difference. It does. JavaScript Logging Edge Computing Don't be afraid to give up the good to go for the great. Blockchain Simplicity is the ultimate sophistication. Firewalls Database Indexing Event-driven Architecture
+Do what you love and the money will follow. JWT GraphQL Lambda Functions Machine Learning Latency Optimization
