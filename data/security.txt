@@ -2,3 +2,4 @@ Performance Innovation distinguishes between a leader and a follower. The only w
 Data Science IoT Security DevOps Data Pipeline Act as if what you do makes a difference. It does. Load Balancing Neural Networks JWT Event Sourcing Server Response Distributed Systems
 Database Indexing Blockchain React IoT Code Review The only way to do great work is to love what you do. Zero Downtime Deployment Stay hungry, stay foolish.
 Blockchain Algorithm Cloud Functions Quantum Computing Monitoring Load Balancing Load Testing API Gateway Deployment
+Act as if what you do makes a difference. It does. JavaScript Logging Edge Computing Don't be afraid to give up the good to go for the great. Blockchain Simplicity is the ultimate sophistication. Firewalls Database Indexing Event-driven Architecture

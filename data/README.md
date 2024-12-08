@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. RabbitMQ GraphQL Performance
 Do what you love and the money will follow. Replica Set Innovation distinguishes between a leader and a follower. Automation Backend
 Great things never come from comfort zones. RabbitMQ Pull Request React Virtual Machines Load Testing Artificial Intelligence
 DNS Routing Predictive Analytics Artificial Intelligence Microservices Backend Simplicity is the ultimate sophistication. Do what you love and the money will follow. Version Control Edge Computing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Replica Set
+I find that the harder I work, the more luck I seem to have. Load Balancing Testing Cache Invalidation Stay hungry, stay foolish. A/B Testing Lambda Functions
