@@ -1,2 +1,3 @@
 Performance Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Scalability Kubernetes Framework Load Balancing Cache Invalidation Frontend Distributed Systems UX Optimization
 Data Science IoT Security DevOps Data Pipeline Act as if what you do makes a difference. It does. Load Balancing Neural Networks JWT Event Sourcing Server Response Distributed Systems
+Database Indexing Blockchain React IoT Code Review The only way to do great work is to love what you do. Zero Downtime Deployment Stay hungry, stay foolish.

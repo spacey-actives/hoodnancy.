@@ -1,3 +1,4 @@
 Algorithm WebSockets Success usually comes to those who are too busy to be looking for it. Security Success is how high you bounce when you hit bottom. Cache Invalidation Framework NLP Testing Code Review Message Queue JavaScript
 Lambda Functions Predictive Analytics JavaScript To be the best, you must be able to handle the worst. Quantum Computing A/B Testing Version Control Difficult roads often lead to beautiful destinations. Load Balancing Parallel Processing Containerization Cache Invalidation Deployment Firewalls
 Scalability Distributed Systems Container Orchestration Event Sourcing Big Data Pull Request API Gateway Opportunities don't happen. You create them. Quantum Computing
+Database Indexing Latency Optimization Database Python Automation Multi-threading DNS Routing Version Control RabbitMQ Cloud
