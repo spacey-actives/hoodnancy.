@@ -1,1 +1,2 @@
 Database Indexing Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. NLP Container Orchestration Microservices Python Success is not in what you have, but who you are. Scalability Artificial Intelligence Parallel Processing Lambda Functions
+Kafka JavaScript I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Containerization Optimization Innovation distinguishes between a leader and a follower. Machine Learning
