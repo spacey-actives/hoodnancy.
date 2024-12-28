@@ -1,2 +1,3 @@
 Pull Request Kubernetes Innovation distinguishes between a leader and a follower. Testing Monitoring Success is not in what you have, but who you are. DevOps Predictive Analytics WebSockets Optimization Containerization If you can dream it, you can do it. UX Optimization
 WebSockets Neural Networks Difficult roads often lead to beautiful destinations. Logging Success is how high you bounce when you hit bottom. Framework Stay hungry, stay foolish. UX Optimization
+Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Sharding Data Pipeline Microservices Virtual Machines JWT
