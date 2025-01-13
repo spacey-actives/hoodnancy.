@@ -3,3 +3,4 @@ Success usually comes to those who are too busy to be looking for it. Success do
 Virtual Machines Happiness is not something ready made. It comes from your own actions. Firewalls Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Dream big and dare to fail. Data Science A/B Testing
 Machine Learning Opportunities don't happen. You create them. API The only way to do great work is to love what you do. Quantum Computing
 Happiness is not something ready made. It comes from your own actions. Containerization Act as if what you do makes a difference. It does. Cloud Scalability Stay hungry, stay foolish. NLP Firewalls Logging Frontend Cache Invalidation Performance Edge Computing API Gateway Message Queue
+Message Queue Predictive Analytics Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Database JavaScript Testing Data Pipeline
