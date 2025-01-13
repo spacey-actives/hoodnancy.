@@ -1,0 +1,1 @@
+Message Queue Success usually comes to those who are too busy to be looking for it. Blockchain Opportunities don't happen. You create them. Server Response Success doesn’t just find you. You have to go out and get it. Kafka Version Control OAuth Lambda Functions Great things never come from comfort zones. Do what you love and the money will follow. Microservices
