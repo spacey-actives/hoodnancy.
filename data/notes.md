@@ -1,1 +1,2 @@
 Predictive Analytics Blockchain IoT Frontend Simplicity is the ultimate sophistication. Server Response Microservices
+Backend Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Scalability Data Pipeline OAuth Containerization Serverless Act as if what you do makes a difference. It does. Testing Version Control Code Review
